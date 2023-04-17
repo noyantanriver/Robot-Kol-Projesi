@@ -1,0 +1,30 @@
+D:\Development\VisualStudio\Projects\Gamepad\Gamepad\bin\Debug\Gamepad.exe
+D:\Development\VisualStudio\Projects\Gamepad\Gamepad\bin\Debug\Gamepad.pdb
+D:\Development\VisualStudio\Projects\Gamepad\Gamepad\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Development\VisualStudio\Projects\Gamepad\Gamepad\obj\x86\Debug\Gamepad.frmGamepad.resources
+D:\Development\VisualStudio\Projects\Gamepad\Gamepad\obj\x86\Debug\Gamepad.Properties.Resources.resources
+D:\Development\VisualStudio\Projects\Gamepad\Gamepad\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Development\VisualStudio\Projects\Gamepad\Gamepad\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Development\VisualStudio\Projects\Gamepad\Gamepad\obj\x86\Debug\Gamepad.exe
+D:\Development\VisualStudio\Projects\Gamepad\Gamepad\obj\x86\Debug\Gamepad.pdb
+D:\Development\VisualStudio\Projects\Gamepad\Gamepad\bin\Debug\Gamepad.exe.config
+D:\Development\VisualStudio\Projects\Gamepad\Gamepad\obj\x86\Debug\ResGen.read.1.tlog
+D:\Development\VisualStudio\Projects\Gamepad\Gamepad\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\aykut\Desktop\Gamepad\Gamepad\bin\Debug\Gamepad.exe.config
+C:\Users\aykut\Desktop\Gamepad\Gamepad\obj\x86\Debug\Gamepad.exe
+C:\Users\aykut\Desktop\Gamepad\Gamepad\obj\x86\Debug\Gamepad.pdb
+C:\Users\aykut\Desktop\Gamepad\Gamepad\obj\x86\Debug\Gamepad.frmGamepad.resources
+C:\Users\aykut\Desktop\Gamepad\Gamepad\obj\x86\Debug\Gamepad.Properties.Resources.resources
+C:\Users\aykut\Desktop\Gamepad\Gamepad\obj\x86\Debug\Gamepad.csproj.GenerateResource.Cache
+C:\Users\aykut\Desktop\Gamepad\Gamepad\bin\Debug\Gamepad.exe
+C:\Users\aykut\Desktop\Gamepad\Gamepad\bin\Debug\Gamepad.pdb
+C:\Users\aykut\Desktop\Gamepad\Gamepad\obj\x86\Debug\Gamepad.csprojResolveAssemblyReference.cache
+D:\Projeler\robotKol Yazilimi\Gamepad\Gamepad\bin\Debug\Gamepad.exe.config
+D:\Projeler\robotKol Yazilimi\Gamepad\Gamepad\obj\x86\Debug\Gamepad.exe
+D:\Projeler\robotKol Yazilimi\Gamepad\Gamepad\obj\x86\Debug\Gamepad.pdb
+D:\Projeler\robotKol Yazilimi\Gamepad\Gamepad\bin\Debug\Gamepad.exe
+D:\Projeler\robotKol Yazilimi\Gamepad\Gamepad\bin\Debug\Gamepad.pdb
+D:\Projeler\robotKol Yazilimi\Gamepad\Gamepad\obj\x86\Debug\Gamepad.csprojResolveAssemblyReference.cache
+D:\Projeler\robotKol Yazilimi\Gamepad\Gamepad\obj\x86\Debug\Gamepad.frmGamepad.resources
+D:\Projeler\robotKol Yazilimi\Gamepad\Gamepad\obj\x86\Debug\Gamepad.Properties.Resources.resources
+D:\Projeler\robotKol Yazilimi\Gamepad\Gamepad\obj\x86\Debug\Gamepad.csproj.GenerateResource.Cache
